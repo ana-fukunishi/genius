@@ -1,0 +1,49 @@
+body{
+    background-color: #F8F9F9;
+    margin: 10px auto;
+    text-align: center;
+}
+
+h1{
+    font-size: 3.5rem;
+    font-family: 'Inconsolata', monospace;
+    margin: 50px auto;
+}
+
+.btn{
+    width: 200px;
+    height: 200px;
+    border: solid black 8px;
+    margin: 5px 3px;
+}
+
+.pressed{
+    box-shadow: 0 3px 4px 0 #DBEDF3;
+    opacity: 0.5;
+
+}
+
+.i{
+    color: green;
+    background-color: green;
+    border-radius: 100% 5% 5% 5%;
+
+}
+
+.o{
+    color: red;
+    background-color: red;
+    border-radius: 5% 100% 5% 5%;
+}
+
+.k{
+    color: yellow;
+    background-color: yellow;
+    border-radius: 5% 5% 5% 100% ;
+
+}
+
+.l{
+    color: blue;
+    background-color:blue;
+    border-radius: 5% 5% 100% 5%;}
